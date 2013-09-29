@@ -1,0 +1,5 @@
+1-Página web para reservar turnos de videoconsolas en un establecimiento de ocio (Ej: FullGame)
+2-Página web para compartir apuntes entre estudiantes de la Universidad.
+3-Página web para compartir, vender y comprar herramientas de bricolaje y jardinería.
+4-Página web para compartir bibliografía didáctica acerca de diversos lenguajes de programación.
+5-Página web para reservar mesa en un restaurante cualquiera de una zona determinada.
